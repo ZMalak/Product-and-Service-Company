@@ -110,6 +110,10 @@ footer {
     background-color: #444;
 }
 
+footer a:hover {
+    color: black;
+}
+
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
  *  Green Background
